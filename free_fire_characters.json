@@ -1,0 +1,63 @@
+[
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-a124-628x913.jpg", 
+        "character_name": "A124",
+        "character_info": "A124 is part robot, part 18 year old girl. She’s a healing specialist, but she’s a bit selfish, only capable of healing herself with her special ability.",
+        "character_hability" : ["Thrill of Battle"]
+    },
+
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-rafael-628x913.jpg", 
+        "character_name": "RAFAEL",
+        "character_info": "Rafael is one of those nice kinds of hitmen that just wants to make the world a better place. With murder.",
+        "character_hability" : ["Dead Silent"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-laura-628x913.jpg", 
+        "character_name": "LAURA",
+        "character_info": "Laura began her special agent training as a child, so is pretty darn expert at it by now.",
+        "character_hability" : ["Sharp Shooter"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-shimada-hayato-628x913.jpg", 
+        "character_name": "SHIMADA HAYATO",
+        "character_info": "Hayato has a huge burden on his shoulders, as the only child of a prestigious family. That’s probably the reason why his hair is turning white at 20.",
+        "character_hability" : ["Bushido"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-moco-628x913.jpg", 
+        "character_name": "MOCO",
+        "character_info": "Moco is an expert hacker that would probably choose to live in a computer if she had the option.",
+        "character_hability" : ["Hacker’s Eye"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-wukong-628x913.jpg", 
+        "character_name": "WUKONG",
+        "character_info": "Wukong is some kind of monkey/human/robot hybrid. The future is terrifying.",
+        "character_hability" : ["Camouflage"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-antonio-1-628x913.jpg", 
+        "character_name": "ANTONIO",
+        "character_info": "Antonio is now the only gangster in town, after wiping out all of the competition.",
+        "character_hability" : ["Gangster’s Spirit"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-caroline-628x913.jpg", 
+        "character_name": "CAROLINE",
+        "character_info": "Caroline is a spoiled rich kid who has garnered a huge fan base on the back of it. Think the video game equivalent of a Kardashian.",
+        "character_hability" : ["Agility"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-miguel.jpg", 
+        "character_name": "MIGUEL",
+        "character_info": "Miguel is an elite special forces soldier that was betrayed by his own allies. He’s probably not the most trusting guy in the world at this point.",
+        "character_hability" : ["Crazy Slayer"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-paloma-628x913.jpg", 
+        "character_name": "PALOMA",
+        "character_info": "Paloma is a beauty queen-turned arms dealer. She’s not a very nice person to be honest.",
+        "character_hability" : ["Arms-dealing"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-kla-628x913.jpg", 
+        "character_name": "KLA",
+        "character_info": "Kla is a famous martial artist-turned-vigilante that lets his fists do the talking",
+        "character_hability" : ["Muay Thai"]
+    },
+    {   "image_url": "https://www.pockettactics.com/wp-content/uploads/2020/05/garena-free-fire-maxim-628x913.jpg", 
+        "character_name": "MAXIM",
+        "character_info": "Maxim is a speed eating streamer who can easily out-eat those much bigger than him.",
+        "character_hability" : ["Gluttony"]
+    }
+]
